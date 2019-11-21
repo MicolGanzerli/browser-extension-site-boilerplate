@@ -1,4 +1,19 @@
 /* insert you css */
-body {
-    background-color: black;
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 120px;
+    color: white; 
+    text-align: center;
+    border: 50px black solid;
 }
+
+p{
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color:darkgrey;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
